@@ -12,7 +12,8 @@ Return a 2D array containing the 4-length arrays described above for each group 
 
 Example 1:
 
-![Uploading screenshot-2021-07-27-at-12-23-15-copy-of-diagram-drawio-diagrams-net.png…]()
+![screenshot-2021-07-27-at-12-23-15-copy-of-diagram-drawio-diagrams-net](https://github.com/NilayKantharia/100-Days-Coding-Challenge/assets/125391394/7cec4a28-5079-4b06-8f0b-e25bc069cf53)
+
 
 Input: land = [[1,0,0],[0,1,1],[0,1,1]]
 Output: [[0,0,0,0],[1,1,2,2]]
