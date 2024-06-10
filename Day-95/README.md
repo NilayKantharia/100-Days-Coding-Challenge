@@ -54,8 +54,8 @@ Examples
 
 Input: n = 5, nuts[] = {@, %, $, #, ^}, bolts[] = {%, @, #, $ ^}
 Output: 
-# $ % @ ^
-# $ % @ ^
+<code># $ % @ ^</code>
+<code># $ % @ ^</code>
 Explanation: As per the order # should come first after that $ then % then @ and ^. 
 Input: n = 9, nuts[] = {^, &, %, @, #, *, $, ?, !}, bolts[] = {?, #, @, %, &, *, $ ,^, !}
 Output: 
