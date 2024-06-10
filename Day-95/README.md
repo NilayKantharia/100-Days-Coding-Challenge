@@ -59,8 +59,8 @@ Output:
 Explanation: As per the order # should come first after that $ then % then @ and ^. 
 Input: n = 9, nuts[] = {^, &, %, @, #, *, $, ?, !}, bolts[] = {?, #, @, %, &, *, $ ,^, !}
 Output: 
-`! # $ % & * ? @ ^`
-`! # $ % & * ? @ ^`
+<code>! # $ % & * ? @ ^</code>
+<code>! # $ % & * ? @ ^</code>
 Explanation: We'll have to match first ! then  # , $,  %,  &,  *,  @,  ^,  ? as per the required ordering.
 Expected Time Complexity: O(n(logn))
 Expected Auxiliary Space: O(log(n))
