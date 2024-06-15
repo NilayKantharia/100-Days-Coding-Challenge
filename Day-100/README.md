@@ -4,6 +4,7 @@ Reflecting on this 100-day challenge, the progress has been extraordinary. From 
 As I wrap up this 100-day journey, I'm grateful for the growth and knowledge gained. This milestone is just the beginning, and I'm excited to continue my exploration and advancement in coding and programming.
 
 
+****
 ### LeetCode : 502. IPO
 
 Suppose LeetCode will start its IPO soon. In order to sell a good price of its shares to Venture Capital, LeetCode would like to work on some projects to increase its capital before the IPO. Since it has limited resources, it can only finish at most k distinct projects before the IPO. Help LeetCode design the best way to maximize its total capital after finishing at most k distinct projects.
